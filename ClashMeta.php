@@ -84,7 +84,7 @@ class ClashMeta
         // Force the current subscription domain to be a direct rule
         $subsDomain = request()->header('Host');
         if ($subsDomain) {
-            array_unshift($config['rules'], "DOMAIN,2222.com,DIRECT");
+            array_unshift($config['rules'], "DOMAIN,11111.com,DIRECT");
         }
 
         $yaml = Yaml::dump($config, 2, 4, Yaml::DUMP_EMPTY_ARRAY_AS_SEQUENCE);
