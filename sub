@@ -38,11 +38,11 @@ proxies:
   - {name: 🇯🇵 JPN 07 十堰联通, server: c1d9bda22.ypftrh.xyz, port: 46373, type: ss, cipher: aes-128-gcm, password: bec9ab4ddc630ff1, plugin: obfs, plugin-opts: {mode: http, host: fba5104639d140a0.microsoft.com}}
   - {name: 🇯🇵 JPN 08 十堰联通 家宽, server: mid.nor3.uops.rtx.al, port: 1006, type: ss, cipher: aes-128-gcm, password: 5097d919-0d07-44e8-b6f2-d304a63ea333}
   - {name: 🇮🇳 IND 01 深圳移动, server: south.nor2.uops.rtx.al, port: 41036, type: ss, cipher: aes-128-gcm, password: 5097d919-0d07-44e8-b6f2-d304a63ea333}
-  - {name: 🇺🇸 USA 03 深圳移动, server: south.nor2.uops.rtx.al, port: 54317, type: ss, cipher: aes-128-gcm, password: 5097d919-0d07-44e8-b6f2-d304a63ea333}
-  - {name: 🇺🇸 USA 03 十堰联通, server: mid.nor3.uops.rtx.al, port: 1036, type: ss, cipher: aes-128-gcm, password: 5097d919-0d07-44e8-b6f2-d304a63ea333}
+  - {name: 🇺🇸 USA 03 深圳移动, server: c1d9bda22.ypftrh.xyz, port: 41128, type: ss, cipher: aes-128-gcm, password: bec9ab4ddc630ff1, plugin: obfs, plugin-opts: {mode: http, host: fba5104639d140a0.microsoft.com}}
+  - {name: 🇺🇸 USA 03 十堰联通, server: c1d9bda22.ypftrh.xyz, port: 41128, type: ss, cipher: aes-128-gcm, password: bec9ab4ddc630ff1, plugin: obfs, plugin-opts: {mode: http, host: fba5104639d140a0.microsoft.com}}
   - {name: 🇺🇸 USA 05 深圳移动, server: south.nor2.uops.rtx.al, port: 3601, type: ss, cipher: aes-128-gcm, password: 5097d919-0d07-44e8-b6f2-d304a63ea333}
   - {name: 🇺🇸 USA 06 十堰联通 家宽, server: mid.nor3.uops.rtx.al, port: 10086, type: ss, cipher: aes-128-gcm, password: 5097d919-0d07-44e8-b6f2-d304a63ea333}
-  - {name: 🇹🇼 TWN 01 深圳移动, server: south.nor2.uops.rtx.al, port: 53804, type: ss, cipher: aes-128-gcm, password: 5097d919-0d07-44e8-b6f2-d304a63ea333}
+  - {name: 🇹🇼 TWN 01 深圳移动, server: c1d9bda22.ypftrh.xyz, port: 43266, type: ss, cipher: aes-128-gcm, password: bec9ab4ddc630ff1, plugin: obfs, plugin-opts: {mode: http, host: fba5104639d140a0.microsoft.com}}
   - {name: 🇸🇬 SGP 03 泉州电信 x2, server: south.nor3.uops.rtx.al, port: 1222, type: ss, cipher: aes-128-gcm, password: 5097d919-0d07-44e8-b6f2-d304a63ea333}
   - {name: 🇸🇬 SGP 03 深圳移动, server: south.nor2.uops.rtx.al, port: 12300, type: ss, cipher: aes-128-gcm, password: 5097d919-0d07-44e8-b6f2-d304a63ea333}
   - {name: 🇸🇬 SGP 05 深圳移动, server: south.nor2.uops.rtx.al, port: 18808, type: ss, cipher: aes-128-gcm, password: 5097d919-0d07-44e8-b6f2-d304a63ea333}
